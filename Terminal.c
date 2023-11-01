@@ -1,5 +1,5 @@
 /**
- * Avihai Mordechay, 318341278
+ * Avihai Mordechay
  */
 #include <stdio.h>
 #include <string.h>
